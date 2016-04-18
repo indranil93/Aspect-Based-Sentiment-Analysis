@@ -1,13 +1,5 @@
 # Aspect-Based-Sentiment-Analysis
 Sentiment analysis is increasingly viewed as a vital task both from an academic and a commercial standpoint. The majority of current approaches, however, attempt to detect the overall polarity of a sentence, paragraph, or text span, regardless of the entities mentioned (e.g., laptops, restaurants) and their aspects (e.g., battery, screen; food, service). By contrast, this task is concerned with aspect based sentiment analysis (ABSA), where the goal is to identify the aspects of given target entities and the sentiment expressed towards each aspect. Datasets consisting of customer reviews with human authored annotations identifying the mentioned aspects of the target entities and the sentiment polarity of each aspect will be provided.
-Description
-Sentiment analysis is increasingly viewed as a vital task both from an academic and a commercial standpoint. The
-majority of current approaches, however, attempt to detect the overall polarity of a sentence, paragraph, or text
-span, regardless of the entities mentioned (e.g., laptops, restaurants) and their aspects (e.g., battery, screen; food,
-service). By contrast, this task is concerned with aspect based sentiment analysis (ABSA), where the goal is to
-identify the aspects of given target entities and the sentiment expressed towards each aspect. Datasets consisting
-of customer reviews with human authored annotations identifying the mentioned aspects of the target entities
-and the sentiment polarity of each aspect will be provided.
 
 In particular, the task consists of the following subtasks:
 Subtask 1: Aspect term extraction
